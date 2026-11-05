@@ -1,0 +1,6 @@
+{
+  "name": "Honda Flagship Showroom & Experience Center",
+  "description": "Next-generation 35,000 sq ft Honda Flagship Showroom and Service Center featuring interactive architectural blueprints, 360 vehicle turntable, digital configuration studio, VIP reveal bay, smart service center, and sustainability metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
